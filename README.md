@@ -9,6 +9,7 @@ TaskTrack is a command-line task manager created for CPS 310.
 - List is saved even after program is closed in a text file (tasks.txt)
 - Gives the option for the user to display the list of tasks
     along with assigning each task a number
+- A remove function is available to remove tasks that will update the tasks.txt file as well
 
 ## Requirements
 - Python 3
